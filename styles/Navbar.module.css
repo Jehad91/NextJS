@@ -1,0 +1,13 @@
+.navbar{
+  background-color: black;
+  padding: 20px;
+}
+.links{
+  font-size: 18px;
+  font-weight: bold;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
