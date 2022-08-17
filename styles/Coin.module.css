@@ -1,0 +1,9 @@
+.container{
+  width: 50%;
+  margin: 10px auto;
+  text-align: center;
+}
+.coinBox{
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+}
