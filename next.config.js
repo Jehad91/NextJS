@@ -4,7 +4,6 @@ const nextConfig = {
   swcMinify: true,
   images: {
     domains: ["static.coinstats.app"],
-    formats: ["image/png", "image/avif", "image/webp", "image/jpeg"],
   },
 };
 
